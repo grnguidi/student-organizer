@@ -1,0 +1,11 @@
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\bin\Debug\studentorganizer.exe.config
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\bin\Debug\studentorganizer.exe
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\bin\Debug\studentorganizer.pdb
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.csproj.AssemblyReference.cache
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.Form1.resources
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.Properties.Resources.resources
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.csproj.GenerateResource.cache
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.exe
+C:\Users\gabriel.rnguidi\source\repos\student-organizer\studentorganizer\studentorganizer\obj\Debug\studentorganizer.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,36 @@ namespace studentorganizer
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            pictureBox1.Image = Image.FromFile("../../imgs/User.jpg");
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void passwordTxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void loginBtn_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void userTxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
